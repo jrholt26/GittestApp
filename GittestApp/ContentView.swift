@@ -1,3 +1,6 @@
+//Jackosn Holt, Transy U
+// Winter 2024
+// CS 3164
 //
 //  ContentView.swift
 //  GittestApp
